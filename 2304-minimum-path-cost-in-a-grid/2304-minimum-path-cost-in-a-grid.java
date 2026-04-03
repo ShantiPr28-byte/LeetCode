@@ -3,31 +3,30 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        Integer[][] dp = new Integer[m][n];
+        int[][] dp = new int[m][n];
 
-        int minCost = Integer.MAX_VALUE;
         for(int j = 0; j < n; j++) {
-            int cost = solve(0, j, grid, moveCost, dp);
-            minCost = Math.min(minCost, cost);
+            dp[0][j] = grid[0][j];
         }
-
-        return minCost;
-    }
-
-    private int solve(int i, int j, int[][] grid, int[][] moveCost, Integer[][] dp) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        if(i == m-1) return grid[i][j];
-
-        if(dp[i][j] != null) return dp[i][j];
 
         int minCost = Integer.MAX_VALUE;
-        for(int k = 0; k < n; k++) {
-            int cost = grid[i][j] + moveCost[grid[i][j]][k] + solve(i+1, k, grid, moveCost, dp);
-            minCost = Math.min(minCost, cost);
+        for(int i = 1; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                dp[i][j] = Integer.MAX_VALUE;
+                //try all columns from previous row
+                for(int k = 0; k < n; k++) {
+                    int cost = dp[i-1][k] + moveCost[grid[i-1][k]][j] + grid[i][j];
+                    dp[i][j] = Math.min(dp[i][j], cost);
+                }
+            }
         }
 
-        return dp[i][j] = minCost;
+        //find minimum in last row
+        int ans = Integer.MAX_VALUE;
+        for(int j = 0; j < n; j++) {
+            ans = Math.min(ans, dp[m-1][j]);
+        }
+
+        return ans;
     }
 }

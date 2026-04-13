@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->

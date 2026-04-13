@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -109,4 +110,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

@@ -1,6 +1,6 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        int[] freq = new int[100];
+        int[] freq = new int[101];
 
         int maxFreq = 0, result = 0;
         for(int num : nums) {

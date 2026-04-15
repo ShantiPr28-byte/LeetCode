@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

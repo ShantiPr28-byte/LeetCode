@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |

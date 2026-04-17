@@ -3,12 +3,18 @@ class Solution {
         HashMap<String, List<String>> map = new HashMap<>();
 
         for(String str : strs) {
-            char[] arr = str.toCharArray();
-            Arrays.sort(arr);
-            String key = new String(arr);
+            int[] freq = new int[26];
+            for(char c : str.toCharArray()) {
+                freq[c - 'a']++;
+            }
 
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(str);
+            StringBuilder key = new StringBuilder();
+            for(int count : freq) {
+                key.append(count).append('#');
+            }
+
+            map.putIfAbsent(key.toString(), new ArrayList<>());
+            map.get(key.toString()).add(str);
         }
 
         return new ArrayList<>(map.values());

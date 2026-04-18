@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -21,41 +21,25 @@ class Node {
 class Solution {
     public Node cloneGraph(Node node) {
         if(node == null) return null;
-        
+
         HashMap<Node, Node> map = new HashMap<>();
-        return dfs(node, map);
-    }
+        Queue<Node> q = new LinkedList<>();
+        
+        q.offer(node);
+        map.put(node, new Node(node.val));
 
-    private Node dfs(Node node, HashMap<Node, Node> map) {
-        if(map.containsKey(node)) {
-            return map.get(node);
+        while(!q.isEmpty()) {
+            Node curr = q.poll();
+
+            for(Node nei : curr.neighbors) {
+                if(!map.containsKey(nei)) {
+                    map.put(nei, new Node(nei.val));
+                    q.offer(nei);
+                }
+                map.get(curr).neighbors.add(map.get(nei));
+            }
         }
 
-        Node clone = new Node(node.val);
-        map.put(node, clone);
-
-        for(Node nei : node.neighbors) {
-            clone.neighbors.add(dfs(nei, map));
-        }
-
-        return clone;
+        return map.get(node);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

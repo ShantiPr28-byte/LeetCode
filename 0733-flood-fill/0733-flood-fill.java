@@ -3,28 +3,33 @@ class Solution {
     int[] dc = {0, 0, -1, 1};
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int m = image.length;
+        int n = image[0].length;
+
         int src = image[sr][sc];
 
-        // Important optimization
         if(src == color) return image;
 
-        dfs(sr, sc, src, image, color);
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{sr, sc});
+
+        while(!q.isEmpty()) {
+            int[] curr = q.poll();
+            int r = curr[0];
+            int c = curr[1];
+
+            image[r][c] = color;
+
+            for(int k = 0; k < 4; k++) {
+                int R = r + dr[k];
+                int C = c + dc[k];
+
+                if(R < 0 || C < 0 || R >= m || C >= n || image[R][C] != src) continue;
+
+                q.offer(new int[]{R, C});
+            }
+        }
 
         return image;
-    }
-
-    private void dfs(int r, int c, int src, int[][] image, int color) {
-        if(r < 0 || c < 0 || r >= image.length || c >= image[0].length || image[r][c] != src) {
-            return;
-        }
-
-        image[r][c] = color;
-
-        for(int k = 0; k < 4; k++) {
-            int R = r + dr[k];
-            int C = c + dc[k];
-
-            dfs(R, C, src, image, color);
-        }
     }
 }

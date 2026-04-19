@@ -4,7 +4,10 @@ class Solution {
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int src = image[sr][sc];
-        
+
+        // Important optimization
+        if(src == color) return image;
+
         dfs(sr, sc, src, image, color);
 
         return image;
@@ -14,8 +17,6 @@ class Solution {
         if(r < 0 || c < 0 || r >= image.length || c >= image[0].length || image[r][c] != src) {
             return;
         }
-
-        if(image[r][c] == color) return;
 
         image[r][c] = color;
 

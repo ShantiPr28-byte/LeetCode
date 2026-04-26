@@ -1,13 +1,13 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max = Math.max(nums[0], nums[1]);
-        int secondMax = Math.min(nums[0], nums[1]);
+        int max = 0;
+        int secondMax = 0;
 
-        for(int i = 2; i < nums.length; i++) {
+        for(int i = 0; i < nums.length; i++) {
             if(nums[i] > max) {
                 secondMax = max;
                 max = nums[i];
-            } else if(nums[i] > secondMax || nums[i] == max) {
+            } else if(nums[i] > secondMax) {
                 secondMax = nums[i];
             }
         }

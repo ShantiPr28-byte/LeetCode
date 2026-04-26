@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -193,10 +194,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

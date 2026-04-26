@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int maxProduct = nums[0];
         int minProduct = nums[0];
-        int result = 0;
+        int result = nums[0];
 
         for(int i = 1; i < n; i++) {
             if(nums[i] < 0) {
@@ -16,6 +16,6 @@ class Solution {
             result = Math.max(maxProduct, result);
         }
 
-        return result;
+        return (result == Integer.MIN_VALUE) ? nums[0] : result;
     }
 }

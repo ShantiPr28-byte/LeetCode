@@ -4,7 +4,7 @@ class Solution {
             int count = 0;
             for(int j = 0; j < citations.length; j++) {
                 if(citations[j] >= i) count++;
-                if(count == i) continue;
+                if(count == i) break;
             }
 
             if(count < i) return i - 1;

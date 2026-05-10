@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Queue
@@ -279,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->

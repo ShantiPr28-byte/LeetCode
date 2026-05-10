@@ -5,16 +5,16 @@ class Solution {
         for(char ch : s.toCharArray()) {
             if(ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
-            } else if(ch == ')' && st.peek() == '(') {
-                st.pop();
-            }  else if(ch == '}' && st.peek() == '{') {
-                st.pop();
-            }  else if(ch == ']' && st.peek() == '[') {
-                st.pop();
-            }
-        }
+            } else {
+                if(st.isEmpty()) return false;
 
-        if(st.isEmpty()) return true;
-        return false;
-    }
+                int top = st.pop();
+                if((ch == ')' && top != '(') || (ch == '}' && top != '{' || ch == ']' && top != '[')) {
+                    return false;
+                }
+            }
+        } 
+
+        return st.isEmpty();
+    }   
 }

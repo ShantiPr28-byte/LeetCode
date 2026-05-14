@@ -3,19 +3,18 @@ class Solution {
         int[] base = {1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000};
         String[] symbol = {"I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M"};
 
-        int i = base.length - 1;
-        StringBuilder sb = new StringBuilder();
-        while(num > 0) {
-            int div = num / base[i];
-            while(div > 0) {
-                sb.append(symbol[i]);
-                div--;
-            }
+        return solve(num, base.length - 1, base, symbol);
+    }
 
-            num = num % base[i];
-            i--;
+    private String solve(int num, int idx, int[] base, String[] symbol) {
+        if(idx < 0) {
+            return "";
         }
 
-        return sb.toString();
+        if(num >= base[idx]) {
+            return symbol[idx] + solve(num - base[idx], idx, base, symbol);
+        } else {
+            return solve(num, idx - 1, base, symbol);
+        }
     }
 }

@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 ## Design
 | Problem Name | Difficulty |

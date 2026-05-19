@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0068-text-justification](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0068-text-justification](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0125-valid-palindrome/) | Easy |

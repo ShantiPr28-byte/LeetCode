@@ -4,13 +4,9 @@ class Solution {
         int totalCost = 0;
         int n = cost.length;
 
-        int count = 0;
         for(int i = n - 1; i >= 0; i--) {
-            if(count < 2) {
+            if((n - 1 - i) % 3 != 2) {
                 totalCost += cost[i];
-                count++;
-            } else {
-                count = 0;
             }
         }
 

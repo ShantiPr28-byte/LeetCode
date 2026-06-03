@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

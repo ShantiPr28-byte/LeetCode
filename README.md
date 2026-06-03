@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |

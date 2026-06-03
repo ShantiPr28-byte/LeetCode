@@ -3,26 +3,48 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        ArrayList<int[]> list = new ArrayList<>();
+        boolean firstRow = false;
+        for(int j = 0; j < m; j++) {
+            if(matrix[0][j] == 0) {
+                firstRow = true;
+                break;
+            }
+        }
 
+        boolean firstCol = false;
         for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
+            if(matrix[i][0] == 0) {
+                firstCol = true;
+                break;
+            }
+        }
+
+        for(int i = 1; i < n; i++) {
+            for(int j = 1; j < m; j++) {
                 if(matrix[i][j] == 0) {
-                    list.add(new int[]{i, j});
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        for(int[] curr : list) {
-            int row = curr[0];
-            int col = curr[1];
-
-            for(int j = 0; j < m; j++) {
-                matrix[row][j] = 0;
+        for(int i = 1; i < n; i++) {
+            for(int j = 1; j < m; j++) {
+                if(matrix[0][j] == 0 || matrix[i][0] == 0) {
+                    matrix[i][j] = 0;
+                }
             }
+        }
 
+        if(firstRow) {
+            for(int j = 0; j < m; j++) {
+                matrix[0][j] = 0;
+            }
+        }
+
+        if(firstCol) {
             for(int i = 0; i < n; i++) {
-                matrix[i][col] = 0;
+                matrix[i][0] = 0;
             }
         }
     }

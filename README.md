@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting

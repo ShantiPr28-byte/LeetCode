@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

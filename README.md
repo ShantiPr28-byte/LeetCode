@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1473-paint-house-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -367,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0274-h-index/) | Medium |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +420,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->

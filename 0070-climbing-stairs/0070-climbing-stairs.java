@@ -1,6 +1,5 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n + 1];
         int prev2 = 1;
         int prev = 1;
 

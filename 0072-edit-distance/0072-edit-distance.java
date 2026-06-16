@@ -1,34 +1,27 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-        int len1 = word1.length();
-        int len2 = word2.length();
+        int n1 = word1.length();
+        int n2 = word2.length();
 
-        Integer[][] dp = new Integer[len1][len2];
+        int[][] dp = new int[n1 + 1][n2 + 1];
 
-        return solve(len1 - 1, len2 - 1, word1, word2, dp);
+        for(int i = 0; i <= n1; i++) {
+            dp[i][0] = i;
+        }
+        for(int j = 0; j <= n2; j++) {
+            dp[0][j] = j;
+        }
+
+        for(int i = 1; i <= n1; i++) {
+            for(int j = 1; j <= n2; j++) {
+                if(word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    dp[i][j] = dp[i-1][j-1];
+                } else {
+                    dp[i][j] = 1 + Math.min(Math.min(dp[i-1][j], dp[i][j-1]), dp[i-1][j-1]);
+                }
+            }
+        }
+
+        return dp[n1][n2];
     }
-
-    private int solve(int n1, int n2, String word1, String word2, Integer[][] dp) {
-        if(n1 < 0) {
-            return n2 + 1;
-        }
-        if(n2 < 0) {
-            return n1 + 1;
-        }
-
-        if(dp[n1][n2] != null) {
-            return dp[n1][n2];
-        }
-
-        int insert = 0, delete = 0, replace = 0;
-        if(word1.charAt(n1) == word2.charAt(n2)) {
-            return dp[n1][n2] = solve(n1 - 1, n2 - 1, word1, word2, dp);
-        } else {
-            insert = 1 + solve(n1, n2 - 1, word1, word2, dp);
-            delete = 1 + solve(n1 - 1, n2, word1, word2, dp);
-            replace = 1 + solve(n1 - 1, n2 - 1, word1, word2, dp);
-        }
-
-        return dp[n1][n2] = Math.min(Math.min(insert, delete), replace);
-    } 
 }

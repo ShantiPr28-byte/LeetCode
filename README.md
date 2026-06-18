@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,12 +387,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,4 +468,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->

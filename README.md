@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0392-is-subsequence/) | Easy |

@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

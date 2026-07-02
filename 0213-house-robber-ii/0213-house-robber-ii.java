@@ -1,30 +1,25 @@
 class Solution {
-    int[] dp;
     public int rob(int[] nums) {
         int n = nums.length;
-
         if(n == 1) return nums[0];
-        if(n == 2) return Math.max(nums[0], nums[1]);
+        if(n == 1) return Math.max(nums[0], nums[1]);
 
-        dp = new int[n];
-        Arrays.fill(dp, -1);
         int case1 = solve(0, n-2, nums);
-
-        dp = new int[n];
-        Arrays.fill(dp, -1);
         int case2 = solve(1, n-1, nums);
 
         return Math.max(case1, case2);
     }
 
-    private int solve(int i, int lastIdx, int[]nums) {
-        if(i > lastIdx) return 0;
+    private int solve(int start, int end, int[] nums) {
+        int[] dp = new int[end + 2];
 
-        if(dp[i] != -1) return dp[i];
+        dp[end + 1] = 0;
+        dp[end] = nums[end];
 
-        int take = nums[i] + solve(i+2, lastIdx, nums);
-        int skip = solve(i+1, lastIdx, nums);
+        for(int i = end - 1; i >= start; i--) {
+            dp[i] = Math.max(dp[i+1], nums[i] + dp[i+2]);
+        }
 
-        return dp[i] = Math.max(take, skip);
+        return dp[start];
     }
 }

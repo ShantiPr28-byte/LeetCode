@@ -1,21 +1,26 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[][] dp = new int[n+1][n+1];
+        ArrayList<Integer> tails = new ArrayList<>();
 
-        for(int idx = n-1; idx >= 0; idx--) {
-            for(int prev = idx-1; prev >= -1; prev--) {
-                int nonTake = dp[idx+1][prev+1];
+        for(int num : nums) {
+            int left = 0, right = tails.size();
+            while(left < right) {
+                int mid = left + (right - left) / 2;
 
-                int take = 0;
-                if(prev == -1 || nums[idx] > nums[prev]) {
-                    take = 1 + dp[idx+1][idx+1];
+                if(tails.get(mid) < num) {
+                    left = mid + 1;
+                } else {
+                    right = mid;
                 }
+            }
 
-                dp[idx][prev+1] = Math.max(nonTake, take);
+            if(left == tails.size()) {
+                tails.add(num);
+            } else {
+                tails.set(left, num);
             }
         }
 
-        return dp[0][0];
+        return tails.size();
     }
 }

@@ -3,13 +3,19 @@ class Solution {
         int n = nums.length;
         int ans = 0;
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(i == j) continue;
+        HashMap<String, Integer> freqMap = new HashMap<>();
+        for(String s : nums) {
+            freqMap.put(s, freqMap.getOrDefault(s, 0) + 1);
+        }
 
-                String s = nums[i] + nums[j];
-                if(s.equals(target)) {
-                    ans++;
+        for(String s : nums) {
+            if(target.startsWith(s)) {
+                String suffix = target.substring(s.length());
+
+                ans += freqMap.getOrDefault(suffix, 0);
+
+                if(s.equals(suffix)) {
+                    ans--;
                 }
             }
         }

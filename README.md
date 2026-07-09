@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |

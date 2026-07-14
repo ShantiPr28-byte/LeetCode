@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1473-paint-house-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

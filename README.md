@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |

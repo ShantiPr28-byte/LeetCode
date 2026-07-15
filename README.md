@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Graph Theory

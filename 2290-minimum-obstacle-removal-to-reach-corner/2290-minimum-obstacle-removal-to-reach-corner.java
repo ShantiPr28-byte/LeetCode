@@ -1,53 +1,42 @@
 class Solution {
-    class Pair {
-        int r;
-        int c;
-        int h;
-
-        public Pair(int r, int c, int h) {
-            this.r = r;
-            this.c = c;
-            this.h = h;
-        }
-    }
     public int minimumObstacles(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
-        boolean[][] vis = new boolean[m][n];
+        int[][] dist = new int[m][n];
+        for(int i = 0; i < m; i++) {
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
+        }
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.h, b.h));
+        Deque<int[]> dq = new ArrayDeque<>();
 
-        pq.offer(new Pair(0, 0, 0));
-        vis[0][0] = true;
+        dist[0][0] = 0;
+        dq.offerFirst(new int[] {0, 0});
 
         int[] dr = {-1, 1, 0, 0};
         int[] dc = {0, 0, -1, 1};
 
-        while(!pq.isEmpty()) {
-            Pair curr = pq.poll();
-            int r = curr.r;
-            int c = curr.c;
-            int h = curr.h;
+        while(!dq.isEmpty()) {
+            int[] curr = dq.poll();
+            int r = curr[0];
+            int c = curr[1];
 
             for(int i = 0; i < 4; i++) {
                 int R = r + dr[i];
                 int C = c + dc[i];
 
-                if(R == m - 1 && C == n - 1) return h;
+                if(R < 0 || C < 0 || R >= m || C >= n) continue;
 
-                if(R < 0 || C < 0 || R >= m || C >= n || vis[R][C]) continue;
+                int cost = grid[R][C];
+                if(dist[r][c] + cost < dist[R][C]) {
+                    dist[R][C] = dist[r][c] + cost;
 
-                vis[R][C] = true;
-                if(grid[R][C] == 1) {
-                    pq.offer(new Pair(R, C, h + 1));
-                } else {
-                    pq.offer(new Pair(R, C, h));
-                }
-
+                    if(cost == 0) dq.offerFirst(new int[] {R, C});
+                    else dq.offerLast(new int[] {R, C});
+                } 
             }
         }
 
-        return -1;
+        return dist[m-1][n-1];
     }
 }

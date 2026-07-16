@@ -1,41 +1,47 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> adjList = new ArrayList<>();
         for(int i = 0; i < numCourses; i++) {
-            adj.add(new ArrayList<>());
+            adjList.add(new ArrayList<>());
+        }
+
+        for(int i = 0; i < prerequisites.length; i++) {
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
+
+            adjList.get(u).add(v);
         }
 
         int[] indegree = new int[numCourses];
-        for(int i = 0; i < prerequisites.length; i++) {
-            adj.get(prerequisites[i][1]).add(prerequisites[i][0]);
-            indegree[prerequisites[i][0]]++;
+        for(int i = 0; i < numCourses; i++) {
+            for(int neighbor : adjList.get(i)) {
+                indegree[neighbor]++;
+            }
         }
 
-        ArrayList<Integer> ans = new ArrayList<>();
-        bfs(adj, indegree, ans);
-        if(ans.size() == numCourses) return true;
-        return false;
-    }
-
-    private void bfs(ArrayList<ArrayList<Integer>> adj, int[] indegree, ArrayList<Integer> ans) {
         Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < indegree.length; i++) {
+        for(int i = 0; i < numCourses; i++) {
             if(indegree[i] == 0) {
                 q.offer(i);
             }
         }
 
+        if(q.size() == 0) return false;
+
+        int course = 0;
         while(!q.isEmpty()) {
             int node = q.poll();
-            ans.add(node);
+            course++;
 
-            ArrayList<Integer> temp = adj.get(node);
-            for(int i = 0; i < temp.size(); i++) {
-                indegree[temp.get(i)]--;
-                if(indegree[temp.get(i)] == 0) {
-                    q.offer(temp.get(i));
+            for(int neighbor : adjList.get(node)) {
+                indegree[neighbor]--;
+
+                if(indegree[neighbor] == 0) {
+                    q.offer(neighbor);
                 }
-            } 
+            }
         }
+
+        return course == numCourses;
     }
 }

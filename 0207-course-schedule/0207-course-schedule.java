@@ -12,36 +12,36 @@ class Solution {
             adjList.get(u).add(v);
         }
 
-        int[] indegree = new int[numCourses];
+        boolean[] vis = new boolean[numCourses];
+        boolean[] parVis = new boolean[numCourses];
+
         for(int i = 0; i < numCourses; i++) {
-            for(int neighbor : adjList.get(i)) {
-                indegree[neighbor]++;
-            }
-        }
-
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < numCourses; i++) {
-            if(indegree[i] == 0) {
-                q.offer(i);
-            }
-        }
-
-        if(q.size() == 0) return false;
-
-        int course = 0;
-        while(!q.isEmpty()) {
-            int node = q.poll();
-            course++;
-
-            for(int neighbor : adjList.get(node)) {
-                indegree[neighbor]--;
-
-                if(indegree[neighbor] == 0) {
-                    q.offer(neighbor);
+            if(!vis[i]) {
+                if(dfs(i, vis, parVis, adjList)) {
+                    return false;
                 }
             }
         }
 
-        return course == numCourses;
+        return true;
+    }
+
+    private boolean dfs(int node, boolean[] vis, boolean[] parVis, ArrayList<ArrayList<Integer>> adjList) {
+        vis[node] = true;
+        parVis[node] = true;
+
+        for(int neighbor : adjList.get(node)) {
+            if(!vis[neighbor]) {
+                if(dfs(neighbor, vis, parVis, adjList)) {
+                    return true;
+                }
+            } else if (parVis[neighbor]) {
+                return true;
+            }
+        }
+
+        parVis[node] = false;
+
+        return false;
     }
 }

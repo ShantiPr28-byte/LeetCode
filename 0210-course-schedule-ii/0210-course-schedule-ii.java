@@ -12,42 +12,43 @@ class Solution {
             adjList.get(u).add(v);
         }
 
-        int[] indegree = new int[numCourses];
+        boolean[] vis = new boolean[numCourses];
+        boolean[] parVis = new boolean[numCourses];
+
+        Stack<Integer> st = new Stack<>();
+
         for(int i = 0; i < numCourses; i++) {
-            for(int neighbor : adjList.get(i)) {
-                indegree[neighbor]++;
-            }
-        }
-
-        Queue<Integer> q = new LinkedList<>();
-        for(int i = 0; i < numCourses; i++) {
-            if(indegree[i] == 0) {
-                q.offer(i);
-            }
-        }
-
-        if(q.size() == 0) return new int[]{};
-
-        int[] result = new int[numCourses];
-        int i = 0;
-        
-        while(!q.isEmpty()) {
-            int node = q.poll();
-            result[i++] = node;
-
-            for(int neighbor : adjList.get(node)) {
-                indegree[neighbor]--;
-
-                if(indegree[neighbor] == 0) {
-                    q.offer(neighbor);
+            if(!vis[i]) {
+                if(dfs(i, vis, parVis, st, adjList)) {
+                    return new int[] {};
                 }
             }
         }
 
-        if(i == numCourses) {
-            return result;
-        } else {
-            return new int[]{};
+        int[] result = new int[numCourses];
+        for(int i = 0; i < numCourses; i++) {
+            result[i] = st.pop();
         }
+
+        return result;
+    }
+
+    private boolean dfs(int node, boolean[] vis, boolean[] parVis, Stack<Integer> st, ArrayList<ArrayList<Integer>> adjList) {
+        vis[node] = true;
+        parVis[node] = true;
+
+        for(int neighbor : adjList.get(node)) {
+            if(!vis[neighbor]) {
+                if(dfs(neighbor, vis, parVis, st, adjList)) {
+                    return true;
+                }
+            } else if(parVis[neighbor]) {
+                return true;
+            }
+        }
+
+        parVis[node] = false;
+        st.push(node);
+        return false;
     }
 }

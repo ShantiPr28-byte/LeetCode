@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Topological Sort
@@ -476,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

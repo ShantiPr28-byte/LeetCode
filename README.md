@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -572,4 +574,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

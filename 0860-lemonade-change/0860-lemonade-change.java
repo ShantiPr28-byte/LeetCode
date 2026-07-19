@@ -4,26 +4,29 @@ class Solution {
         int ten = 0;
         int twenty = 0;
 
-        int n = bills.length;
+        for(int i = 0; i < bills.length; i++) {
+            if(bills[i] == 5) five++;
 
-        for(int i = 0; i < n; i++) {
-            if(bills[i] == 5) {
-                five++;
-            } else if(bills[i] == 10) {
-                ten++;
-                five--;
-            } else if(bills[i] == 20) {
-                twenty++;
-                if(ten > 0) {
-                    ten--;
+            else if(bills[i] == 10) {
+                if(five > 0) {
+                    ten++;
                     five--;
                 } else {
-                    five = five - 3;
+                    return false;
                 }
             }
 
-            if(five < 0 || ten < 0) {
-                return false;
+            else {
+                if(ten > 0 && five > 0) {
+                    ten--;
+                    five--;
+                    twenty++;
+                } else if(five > 2) {
+                    five = five - 3;
+                    twenty++;
+                } else {
+                    return false;
+                }
             }
         }
 

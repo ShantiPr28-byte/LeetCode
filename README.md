@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2498-frog-jump-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,4 +593,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

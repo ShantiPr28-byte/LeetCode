@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2498-frog-jump-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |

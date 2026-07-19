@@ -1,32 +1,33 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        HashMap<Character, Integer> last = new HashMap<>();
-        
+        int[] last = new int[26];
+
         for(int i = 0; i < s.length(); i++) {
-            last.put(s.charAt(i), i);
+            last[s.charAt(i) - 'a'] = i;
         }
 
-        HashSet<Character> visited = new HashSet<>();
         Stack<Character> st = new Stack<>();
+        boolean[] visited = new boolean[26];
 
         for(int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
-            if(visited.contains(ch)) continue;
+            if(visited[ch - 'a']) continue;
 
-            while(!st.isEmpty() && st.peek() > ch && last.get(st.peek()) > i) {
-                visited.remove(st.pop());
+            while(!st.isEmpty() && st.peek() > ch && last[st.peek() - 'a'] > i) {
+                visited[st.pop() - 'a'] = false;
             }
-            
+
             st.push(ch);
-            visited.add(ch);
+            visited[ch - 'a'] = true;
         }
 
         StringBuilder ans = new StringBuilder();
-        while(!st.isEmpty()) {
-            ans.append(st.pop());
+
+        for(char ch : st) {
+            ans.append(ch);
         }
 
-        return ans.reverse().toString();
+        return ans.toString();
     }
 }

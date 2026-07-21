@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1834-single-threaded-cpu](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Queue

@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -463,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |

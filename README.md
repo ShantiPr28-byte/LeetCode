@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2140-solving-questions-with-brainpower](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |

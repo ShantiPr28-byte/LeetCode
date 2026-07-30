@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0409-longest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |

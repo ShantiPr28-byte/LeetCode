@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

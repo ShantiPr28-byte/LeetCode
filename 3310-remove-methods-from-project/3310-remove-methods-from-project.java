@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
-        ArrayList<ArrayList<Integer>> adjList = new ArrayList<>();
+        List<List<Integer>> adjList = new ArrayList<>();
         for(int i = 0; i < n; i++) {
             adjList.add(new ArrayList<>());
         }
@@ -25,7 +25,7 @@ class Solution {
                 for(int j = 0; j < n; j++) {
                     ans.add(j);
                 }
-                break;
+                return ans;
             }
         }
 
@@ -40,7 +40,7 @@ class Solution {
         return ans;
     }
 
-    private void dfs(int k, boolean[] vis, ArrayList<ArrayList<Integer>> adjList) {
+    private void dfs(int k, boolean[] vis, List<List<Integer>> adjList) {
         vis[k] = true;
 
         for(int nei : adjList.get(k)) {

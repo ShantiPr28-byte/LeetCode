@@ -6,6 +6,7 @@ class Solution {
 
             while(x > 0) {
                 int digit = x % 10;
+                if(digit == 0) return n;
                 product *= digit;
 
                 x /= 10;

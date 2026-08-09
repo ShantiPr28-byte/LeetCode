@@ -12,7 +12,7 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        if(r >= n || c1 >= m || c2 >= m || c1 < 0 || c2 < 0) return (int)-1e8;
+        if(r >= n || c1 >= m || c2 >= m || c1 < 0 || c2 < 0) return 0;
 
         if(r == n-1) {
             if(c1 == c2) {

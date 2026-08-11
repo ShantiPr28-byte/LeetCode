@@ -14,12 +14,14 @@ class Solution {
             }
         }
 
-        Arrays.sort(nums);
+        HashSet<Integer> set = new HashSet<>();
 
         for(int num : nums) {
-            if(num == sum) {
-                sum++;
-            }
+            set.add(num);
+        }
+
+        while(set.contains(sum)) {
+            sum++;
         }
 
         return sum;

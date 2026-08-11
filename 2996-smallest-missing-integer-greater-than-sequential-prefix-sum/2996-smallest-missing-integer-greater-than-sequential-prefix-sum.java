@@ -14,16 +14,21 @@ class Solution {
             }
         }
 
-        HashSet<Integer> set = new HashSet<>();
+        while(true) {
+            boolean found = false;
 
-        for(int num : nums) {
-            set.add(num);
-        }
+            for(int num : nums) {
+                if(num == sum) {
+                    found = true;
+                    break;
+                }
+            }
 
-        while(set.contains(sum)) {
+            if(!found) {
+                return sum;
+            }
+
             sum++;
         }
-
-        return sum;
     }
 }

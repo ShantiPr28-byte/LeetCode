@@ -1,18 +1,23 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> powerSet = new ArrayList<>();
-        powerSet.add(new ArrayList<>());
+        List<List<Integer>> result = new ArrayList<>();
 
-        for(int num : nums) {
-            int size = powerSet.size();
+        helper(new ArrayList<>(), 0, nums, result);
 
-            for(int i = 0; i < size; i++) {
-                List<Integer> subset = new ArrayList<>(powerSet.get(i));
-                subset.add(num);
-                powerSet.add(subset);
-            }
+        return result;
+    }
+
+    private void helper(List<Integer> curr, int idx, int[] nums, List<List<Integer>> result) {
+        if(idx == nums.length) {
+            result.add(new ArrayList<>(curr));
+            return;
         }
 
-        return powerSet;
+        curr.add(nums[idx]);
+        helper(curr, idx + 1, nums, result);
+
+        curr.remove(curr.size() - 1);
+
+        helper(curr, idx + 1, nums, result);
     }
 }

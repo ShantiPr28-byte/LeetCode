@@ -6,7 +6,7 @@ class Solution {
 
         Arrays.sort(nums);
 
-        long[] power = new long[n];
+        int[] power = new int[n];
 
         power[0] = 1;
 
@@ -16,10 +16,10 @@ class Solution {
 
         int left = 0, right = n - 1;
 
-        long ans = 0;
+        int ans = 0;
 
         while(left <= right) {
-            if((long)nums[left] + nums[right] <= target) {
+            if(nums[left] + nums[right] <= target) {
                 ans = (ans + power[right - left]) % MOD;
                 left++;
             } else {
@@ -27,6 +27,6 @@ class Solution {
             }
         }
 
-        return (int)ans;
+        return ans;
     }
 }

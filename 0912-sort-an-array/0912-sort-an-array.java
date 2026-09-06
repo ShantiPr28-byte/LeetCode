@@ -1,53 +1,48 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int n = nums.length;
-
-        mergeSort(0, n - 1, nums);
+        mergeSort(nums, 0, nums.length - 1);
 
         return nums;
     }
 
-    private void mergeSort(int l, int r, int[] nums) {
-        if(l >= r) return;
+    private void mergeSort(int[] nums, int low, int high) {
+        if(low == high) return;
 
-        int mid = l + (r - l) / 2;
+        int mid = low + (high - low) / 2;
 
-        mergeSort(l, mid, nums);
-        mergeSort(mid + 1, r, nums);
+        mergeSort(nums, low, mid);
+        mergeSort(nums, mid + 1, high);
 
-        merge(l, mid, r, nums);
+        merge(nums, low, mid, high);
     }
 
-    private void merge(int l, int mid, int r, int[] nums) {
-        int n1 = mid - l + 1;
-        int n2 = r - mid;
+    private void merge(int[] nums, int low, int mid, int high) {
+        int[] temp = new int[high - low + 1];
 
-        int[] leftArray = new int[n1];
-        int[] rightArray = new int[n2];
+        int left = low, right = mid + 1;
+        int i = 0;
 
-        for(int i = 0; i < n1; i++) {
-            leftArray[i] = nums[l + i];
-        }
-
-        for(int i = 0; i < n2; i++) {
-            rightArray[i] = nums[mid + 1 + i];
-        }
-
-        int i = 0, j = 0, k = l;
-        while(i < n1 && j < n2) {
-            if(leftArray[i] <= rightArray[j]) {
-                nums[k++] = leftArray[i++];
+        while(left <= mid && right <= high) {
+            if(nums[left] <= nums[right]) {
+                temp[i] = nums[left];
+                left++;
             } else {
-                nums[k++] = rightArray[j++];
+                temp[i] = nums[right];
+                right++;
             }
+            i++;
         }
 
-        while(i < n1) {
-            nums[k++] = leftArray[i++];
+        while(left <= mid) {
+            temp[i++] = nums[left++];
         }
 
-        while(i < n2) {
-            nums[k++] = rightArray[j++];
+        while(right <= high) {
+            temp[i++] = nums[right++];
+        }
+
+        for(i = low; i <= high; i++) {
+            nums[i] = temp[i - low];
         }
     }
 }

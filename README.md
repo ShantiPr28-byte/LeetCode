@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0414-third-maximum-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0621-task-scheduler/) | Medium |

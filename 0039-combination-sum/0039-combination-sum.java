@@ -1,32 +1,28 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> current = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
 
-        solve(0, candidates, target, current, ans);
+        solve(0, target, new ArrayList<>(), result, candidates);
 
-        return ans;
+        return result;
     }
 
-    private void solve(int i, int[] arr, int target, List<Integer> current, List<List<Integer>> ans) {
-        // Base case
+    private void solve(int idx, int target, List<Integer> curr, List<List<Integer>> result, int[] candidates) {
         if(target == 0) {
-            ans.add(new ArrayList<>(current));
+            result.add(new ArrayList<>(curr));
             return;
         }
+        if(target < 0) return;
 
-        if(i == arr.length || target < 0) {
-            return;
+        if(idx >= candidates.length) return;
+
+        if(candidates[idx] <= target) {
+            curr.add(candidates[idx]);
+            solve(idx, target - candidates[idx], curr, result, candidates);
+
+            curr.remove(curr.size() - 1);
         }
 
-        // Take
-        current.add(arr[i]);
-        solve(i, arr, target - arr[i], current, ans);
-
-        // Backtrack
-        current.remove(current.size() - 1);
-
-        // Skip
-        solve(i + 1, arr, target, current, ans);
+        solve(idx + 1, target, curr, result, candidates);
     }
 }

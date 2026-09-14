@@ -1,26 +1,21 @@
 class Solution {
     public int minDays(int n) {
         int[] dp = new int[n + 1];
-        Arrays.fill(dp, -1);
 
-        return solve(n, dp);
-    }
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[0] = 0;
 
-    private int solve(int n, int[] dp) {
-        if(n == 0) return -1;
+        for(int i = 1; i <= n; i++) {
 
-        if(dp[n] != -1) return dp[n];
+            for(int k = 1; k * (k + 1) / 2 <= i; k++) {
+                int points = k * (k + 1) / 2;
 
-        int ans = Integer.MAX_VALUE;
-
-        for(int k = 1; k * (k + 1) / 2 <= n; k++) {
-            int points = k * (k + 1) / 2;
-
-            int days = k + 1 + solve(n - points, dp);
-
-            ans = Math.min(ans, days);
+                if(dp[i - points] != Integer.MAX_VALUE) {
+                    dp[i] = Math.min(dp[i], k + 1 + dp[i - points]);
+                }
+            }
         }
 
-        return dp[n] = ans;
+        return dp[n] - 1;
     }
 }

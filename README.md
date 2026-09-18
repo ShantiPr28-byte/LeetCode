@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/4040-minimum-operations-to-form-subset-sum-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/4040-minimum-operations-to-form-subset-sum-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

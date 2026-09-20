@@ -1,18 +1,22 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> result = new ArrayList<>();
-        char[][] board = new char[n][n];
 
+        char[][] board = new char[n][n];
         for(int i = 0; i < n; i++) {
             Arrays.fill(board[i], '.');
         }
 
-        helper(0, board, result, n);
+        boolean[] cols = new boolean[n];
+        boolean[] mainDiag = new boolean[2 * n - 1];
+        boolean[] antiDiag = new boolean[2 * n - 1];
+
+        helper(0, n, cols, mainDiag, antiDiag, board, result);
 
         return result;
     }
 
-    private void helper(int col, char[][] board, List<List<String>> result, int n) {
+    private void helper(int col, int n, boolean[] cols, boolean[] mainDiag, boolean[] antiDiag, char[][] board, List<List<String>> result) {
         if(col == n) {
             List<String> temp = new ArrayList<>();
 
@@ -25,52 +29,24 @@ class Solution {
         }
 
         for(int row = 0; row < n; row++) {
-            if(isSafe(row, col, board, n)) {
-                board[row][col] = 'Q';
+            int d1 = n - 1 + col - row;
+            int d2 = row + col;
 
-                helper(col + 1, board, result, n);
+            if(cols[row] || mainDiag[d1] || antiDiag[d2]) continue;
 
-                board[row][col] = '.';
-            }
+            board[row][col] = 'Q';
+
+            cols[row] = true;
+            mainDiag[d1] = true;
+            antiDiag[d2] = true;
+
+            helper(col + 1, n, cols, mainDiag, antiDiag, board, result);
+
+            board[row][col] = '.';
+
+            cols[row] = false;
+            mainDiag[d1] = false;
+            antiDiag[d2] = false;
         }
-    }
-
-    private boolean isSafe(int row, int col, char[][] board, int n) {
-        int dupRow = row;
-        int dupCol = col;
-
-        // upper left
-        while(row >= 0 && col >= 0) {
-            if(board[row][col] == 'Q') {
-                return false;
-            }
-            row--;
-            col--;
-        }
-
-        row = dupRow;
-        col = dupCol;
-
-        //left
-        while(col >= 0) {
-            if(board[row][col] == 'Q') {
-                return false;
-            }
-            col--;
-        }
-
-        row = dupRow;
-        col = dupCol;
-
-        //bottom left
-        while(row < n && col >= 0) {
-            if(board[row][col] == 'Q') {
-                return false;
-            }
-            row++;
-            col--;
-        }
-
-        return true;
     }
 }

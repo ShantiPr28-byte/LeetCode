@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
@@ -728,4 +730,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

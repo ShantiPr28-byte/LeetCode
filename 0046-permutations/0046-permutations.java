@@ -4,13 +4,13 @@ class Solution {
 
         boolean[] taken = new boolean[nums.length];
 
-        helper(0, new ArrayList<>(), taken, nums, result);
+        helper(new ArrayList<>(), taken, nums, result);
 
         return result;
     }
 
-    private void helper(int idx, List<Integer> curr, boolean[] taken, int[] nums, List<List<Integer>> result) {
-        if(idx == nums.length) {
+    private void helper(List<Integer> curr, boolean[] taken, int[] nums, List<List<Integer>> result) {
+        if(curr.size() == nums.length) {
             result.add(new ArrayList<>(curr));
             return;
         }
@@ -20,7 +20,7 @@ class Solution {
                 curr.add(nums[i]);
                 taken[i] = true;
 
-                helper(idx + 1, curr, taken, nums, result);
+                helper(curr, taken, nums, result);
 
                 curr.remove(curr.size() - 1);
                 taken[i] = false;

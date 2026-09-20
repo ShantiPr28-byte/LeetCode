@@ -3,22 +3,23 @@ class Solution {
         int len1 = s1.length();
         int len2 = s2.length();
 
-        if(len2 < len1) return false;
+        if(len1 > len2) return false;
 
-        int[] freq1 = new int[26];
-        for(char ch : s1.toCharArray()) {
-            freq1[ch - 'a']++;
+        int[] s1Freq = new int[26];
+        int[] winFreq = new int[26];
+
+        for(int i = 0; i < len1; i++) {
+            s1Freq[s1.charAt(i) - 'a']++;
+            winFreq[s2.charAt(i) - 'a']++;
         }
 
-        for(int i = 0; i <= len2 - len1; i++) {
-            int[] winFreq = new int[26];
+        if(Arrays.equals(winFreq, s1Freq)) return true;
 
-            for(int j = i; j < i + len1; j++) {
-                char ch = s2.charAt(j);
-                winFreq[ch - 'a']++;
-            }
+        for(int i = len1; i < len2; i++) {
+            winFreq[s2.charAt(i - len1) - 'a']--;
+            winFreq[s2.charAt(i) - 'a']++;
 
-            if(Arrays.equals(winFreq, freq1)) return true;
+            if(Arrays.equals(winFreq, s1Freq)) return true;
         }
 
         return false;

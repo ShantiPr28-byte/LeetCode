@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 ## Hash Table
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |

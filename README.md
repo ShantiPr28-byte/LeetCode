@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2498-frog-jump-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

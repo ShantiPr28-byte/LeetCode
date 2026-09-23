@@ -540,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1462-course-schedule-iv](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1462-course-schedule-iv](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1462-course-schedule-iv](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1462-course-schedule-iv/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -753,4 +756,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 <!---LeetCode Topics End-->

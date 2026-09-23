@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

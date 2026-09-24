@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0542-01-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
@@ -593,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0133-clone-graph](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |

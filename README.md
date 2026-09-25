@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0060-permutation-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization

@@ -1,31 +1,27 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        List<String> allPermutations = new ArrayList<>();
+        int fact = 1;
+        List<Integer> numbers = new ArrayList<>();
 
-        boolean[] used = new boolean[n + 1];
+        for(int i = 1; i < n; i++) {
+            fact *= i;
+            numbers.add(i);
+        }
+        numbers.add(n);
 
-        helper(n, new StringBuilder(), used, allPermutations);
+        String ans = "";
+        k = k - 1;
 
-        return allPermutations.get(k - 1);
-    }
+        while(true) {
+            ans = ans + numbers.get(k / fact);
+            numbers.remove(k / fact);
 
-    private void helper(int n, StringBuilder sb, boolean[] used, List<String> list) {
-        if(sb.length() == n) {
-            list.add(sb.toString());
-            return;
+            if(numbers.size() == 0) break;
+
+            k = k % fact;
+            fact = fact / numbers.size();
         }
 
-        for(int i = 1; i <= n; i++) {
-
-            if(used[i] == true) continue;
-
-            used[i] = true;
-            sb.append(i);
-
-            helper(n, sb, used, list);
-
-            used[i] = false;
-            sb.deleteCharAt(sb.length() - 1);
-        }
+        return ans;
     }
 }

@@ -5,6 +5,8 @@ class Solution {
 
         for(int i = 0; i < m; i++) {
 
+            if(matrix[i][0] > target) return false;
+
             for(int j = 0; j < n; j++) {
                 if(matrix[i][j] == target) {
                     return true;

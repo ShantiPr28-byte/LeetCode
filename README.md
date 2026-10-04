@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1927-sum-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3340-check-balanced-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |

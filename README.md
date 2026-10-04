@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3340-check-balanced-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -615,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |

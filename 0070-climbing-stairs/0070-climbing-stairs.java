@@ -1,14 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        int prev2 = 1;
-        int prev = 1;
+        if(n <= 2) return n;
 
-        for(int i = 2; i <= n; i++) {
-            int curr = prev + prev2;
-            prev2 = prev;
-            prev = curr;
-        }
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
 
-        return prev;
+        return helper(n, dp);
+    }
+
+    private int helper(int n, int[] dp) {
+        if(n <= 0) return 0;
+        if(n == 1 || n == 2) return n;
+
+        if(dp[n] != -1) return dp[n];
+
+        return dp[n] = helper(n - 1, dp) + helper(n - 2, dp);
     }
 }

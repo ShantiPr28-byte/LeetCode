@@ -1,52 +1,34 @@
 class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int n = nums1.length;
-        long k = (long) k1 + k2;
+        int[] freqDiff = new int[100001];
 
-        int[] diff = new int[n];
-        int maxDiff = 0;
+        long k = (long) k1 + k2;
         long totalDiff = 0;
 
-        for (int i = 0; i < n; i++) {
-            diff[i] = Math.abs(nums1[i] - nums2[i]);
-            maxDiff = Math.max(maxDiff, diff[i]);
-            totalDiff += diff[i];
+        for(int i = 0; i < n; i++) {
+            int d = Math.abs(nums1[i] - nums2[i]);
+            freqDiff[d]++;
+            totalDiff += d;
         }
 
-        if (totalDiff <= k) return 0;
+        if(totalDiff <= k) return 0;
 
-        int low = 0, high = maxDiff;
+        for(int i = 100000; i > 0 && k > 0; i--) {
+            int reduce = (int) Math.min(freqDiff[i], k);
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            long operations = 0;
-
-            for (int d : diff) {
-                if (d > mid) {
-                    operations += d - mid;
-                }
-            }
-
-            if (operations <= k) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+            freqDiff[i] -= reduce;
+            freqDiff[i-1] += reduce;
+            k -= reduce;
         }
 
-        int threshold = low;
-        long used = 0;
         long ans = 0;
 
-        for (int d : diff) {
-            used += Math.max(0, d - threshold);
-            int remaining = Math.min(d, threshold);
-            ans += (long) remaining * remaining;
+        for(int i = 1; i <= 100000; i++) {
+            if(freqDiff[i] != 0) {
+                ans += (long) i * i * freqDiff[i];
+            }
         }
-
-        long extra = k - used;
-
-        ans -= extra * (2L * threshold - 1);
 
         return ans;
     }

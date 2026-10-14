@@ -3,16 +3,18 @@ class Solution {
         if(9 * num < sum) return "";
         
         StringBuilder sb = new StringBuilder();
-        while(num > 0) {
-            if(sum >= 9) {
-                sb.append('9');
-                sum -= 9;
-                num--;
-            } else {
-                sb.append(sum);
-                sum -= sum;
-                num--;
-            }
+        int nines = sum / 9;
+        for(int i = 0; i < nines; i++) {
+            sb.append('9');
+        }
+        int r = sum % 9;
+        if(r != 0) {
+            sb.append((char) (r + '0'));
+        }
+
+        int zeros = num - sb.length();
+        for(int i = 0; i < zeros; i++) {
+            sb.append('0');
         }
 
         return sb.toString();

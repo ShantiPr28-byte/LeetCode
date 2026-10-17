@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3731-find-missing-elements/) | Easy |

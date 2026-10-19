@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-frog-jump-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2498-frog-jump-ii/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |

@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3340-check-balanced-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

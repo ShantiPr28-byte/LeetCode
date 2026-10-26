@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -830,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

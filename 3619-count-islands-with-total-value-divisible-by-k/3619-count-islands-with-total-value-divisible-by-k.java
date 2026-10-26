@@ -1,7 +1,6 @@
 class Solution {
     int[] dr = {-1, 1, 0, 0};
     int[] dc = {0, 0, -1, 1};
-    long sum = 0;
 
     public int countIslands(int[][] grid, int k) {
         int m = grid.length;
@@ -12,12 +11,9 @@ class Solution {
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] != 0) {
-                    sum = 0;
-                    dfs(i, j, grid);
-                        
-                    if(sum % k == 0) {
-                        ans++;
-                    }
+                    long sum = dfs(i, j, grid);
+
+                    if(sum % k == 0) ans++;
                 }
             }
         }
@@ -25,19 +21,21 @@ class Solution {
         return ans;
     }
 
-    private void dfs(int r, int c, int[][] grid) {
+    private long dfs(int r, int c, int[][] grid) {
         if(r < 0 || c < 0 || r >= grid.length || c >= grid[0].length || grid[r][c] == 0) {
-            return;
+            return 0;
         }
 
-        sum += grid[r][c];
+        long sum = grid[r][c];
         grid[r][c] = 0;
 
         for(int i = 0; i < 4; i++) {
             int R = r + dr[i];
             int C = c + dc[i];
 
-            dfs(R, C, grid);
+            sum += dfs(R, C, grid);
         }
+
+        return sum;
     }
 }

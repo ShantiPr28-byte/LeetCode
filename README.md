@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0392-is-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0402-remove-k-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0402-remove-k-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -791,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -866,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |

@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0934-shortest-bridge](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [0942-di-string-match](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1140-stone-game-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0942-di-string-match](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |

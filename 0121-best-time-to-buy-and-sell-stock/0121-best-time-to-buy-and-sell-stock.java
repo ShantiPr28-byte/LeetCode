@@ -5,8 +5,11 @@ class Solution {
         int ans = 0;
 
         for(int i = 1; i < n; i++) {
-            ans = Math.max(ans, prices[i] - min);
-            min = Math.min(min, prices[i]);
+            if(prices[i] < min) {
+                min = Math.min(min, prices[i]);
+            } else {
+                ans = Math.max(ans, prices[i] - min);
+            }
         }
 
         return ans;

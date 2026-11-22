@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |

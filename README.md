@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |

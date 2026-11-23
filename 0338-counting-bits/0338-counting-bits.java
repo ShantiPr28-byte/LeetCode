@@ -4,7 +4,7 @@ class Solution {
         dp[0] = 0;
 
         for(int i = 1; i <= n; i++) {
-            dp[i] = dp[i / 2] + i % 2;
+            dp[i] = dp[i & (i - 1)] + 1;
         }
 
         return dp;

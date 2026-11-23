@@ -8,8 +8,8 @@ class Solution {
             int count = 0;
             int j = i;
             while(j > 0) {
-                j = j & (j - 1);
-                count++;
+                count += (j & 1);
+                j >>= 1;
             }
 
             ans[i] = count;

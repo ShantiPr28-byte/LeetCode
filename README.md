@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -593,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -831,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShantiPr28-byte/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -880,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ShantiPr28-byte/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShantiPr28-byte/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShantiPr28-byte/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
